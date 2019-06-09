@@ -1,0 +1,4 @@
+user:asdfg;amount:245
+user:sdf;amount:245
+user:asdg;amount:2454
+user:afg;amount:24597
